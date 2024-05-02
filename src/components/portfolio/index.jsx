@@ -28,7 +28,7 @@ const projectsData = [
     {
         id: 3,
         name: "E-Commerce Website",
-        tags: ["JS"],
+        tags: ["js"],
         link: "https://virendra-verma.github.io/E-commerce_website.github.io/",
         media: {
             thumbnail: require("../../images/portfolio/movix.jpg"),
@@ -41,6 +41,24 @@ const projectsData = [
         link: "https://github.com/Virendra-Verma/Dev",
         media: {
             thumbnail: require("../../images/portfolio/todo.jpeg"),
+        },
+    },
+    {
+        id: 5,
+        name: "BMI Calculator",
+        tags: ["js"],
+        link: "https://virendra-verma.github.io/BMI-Calculator-main/",
+        media: {
+            thumbnail: require("../../images/portfolio/BMICalculator.jpeg"),
+        },
+    },
+    {
+        id: 6,
+        name: "Tic Tac Toe Game",
+        tags: ["js"],
+        link: "https://virendra-verma.github.io/Tic-Tac-Toe-master/",
+        media: {
+            thumbnail: require("../../images/portfolio/Tic-Tac.webp"),
         },
     },
 ];
