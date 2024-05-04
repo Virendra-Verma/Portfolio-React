@@ -11,7 +11,7 @@ const projectsData = [
         id: 1,
         name: "Handicraft E-Commerce Website",
         tags: ["react"],
-        link: "https://github.com/Virendra-Verma/Handicraft-Project",
+        link: "https://handicraft-project-zcam-git-main-virendra-vermas-projects.vercel.app/",
         media: {
             thumbnail: require("../../images/portfolio/tasty-trove.jpg"),
         },
@@ -38,7 +38,7 @@ const projectsData = [
         id: 4,
         name: "Dev App",
         tags: ["react"],
-        link: "https://github.com/Virendra-Verma/Dev",
+        link: "https://dev-git-master-virendra-vermas-projects.vercel.app/",
         media: {
             thumbnail: require("../../images/portfolio/todo.jpeg"),
         },
